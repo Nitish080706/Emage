@@ -18,7 +18,8 @@ The **Emergency App** is a life-saving mobile application designed to provide **
 - 🚑 **Quick Ambulance Dispatch** – Send your live location to dispatch an ambulance within seconds.
 - 📍 **Location Detection** – Automatically fetch your GPS location for rapid response.
 - 💊 **Medicine Info Bot** – Get dosage, usage, and emergency details for common Indian medicines.
-- 🌐 **Multi-language Support** (Coming Soon)
+- 🩸 **Blood Donor** - Get Blood donor and request Blood Donor.
+- 👨‍⚕️ **Doctor** - Avaliable Doctors and Apponitment can be done.
 
 ---
 
